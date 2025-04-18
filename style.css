@@ -1,0 +1,25 @@
+.flag
+{
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(187, 0, 0);
+}
+.flag2
+{
+    height: 100px;
+    width: 150px;
+    border: 2px solid  rgb(187, 0, 0);;
+    top: 80px;
+    left: 9px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+justify-content: center;
+background-color: rgb(247, 247, 247);
+}
+.img
+{
+    height: 70px;
+    width: 70px;
+}
